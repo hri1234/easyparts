@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34c486c4.css",
+    "main.js": "/static/js/main.76e15f40.js",
+    "static/media/phone.png": "/static/media/phone.d73d79cf5b463fe415c8.png",
+    "static/media/travel.png": "/static/media/travel.afebaf33ce6c9f7ac1b5.png",
+    "static/media/beauty.png": "/static/media/beauty.78a4a98bd4e2a29c2a9c.png",
+    "static/media/furniture.png": "/static/media/furniture.d0b0555eae0543bf3b7f.png",
+    "static/media/payment-methods.svg": "/static/media/payment-methods.69e7ec34d1302e6b58b2cb1abe6b2f9c.svg",
+    "static/media/404-not-found.svg": "/static/media/404-not-found.f58b723c5e420e43683574327be5529a.svg",
+    "static/media/kitchen-sale.jpg": "/static/media/kitchen-sale.058c7dbd12f5f0a0be9e.jpg",
+    "static/media/electronics.png": "/static/media/electronics.85eb9bee864ca10157dd.png",
+    "static/media/fashionsale.jpg": "/static/media/fashionsale.3071fadf18ef75cdee1c.jpg",
+    "static/media/success.png": "/static/media/success.a6e71fb67ec0538ff2ee.png",
+    "static/media/failed.png": "/static/media/failed.25f9a5080785b1e6642c.png",
+    "static/media/gadget-sale.jpg": "/static/media/gadget-sale.ec893927252d46afc4d9.jpg",
+    "static/media/fashion.png": "/static/media/fashion.50a123ab781732a73c60.png",
+    "static/media/grocery.png": "/static/media/grocery.98e79cd81e80b83e0372.png",
+    "static/media/poco-m4-pro.webp": "/static/media/poco-m4-pro.48599deb73643813688f.webp",
+    "static/media/appliances.png": "/static/media/appliances.8b55fd94bc9d368f4a19.png",
+    "static/media/realme-9-pro.webp": "/static/media/realme-9-pro.5a99ab97f9f4b611aadc.webp",
+    "static/media/oppo-reno7.webp": "/static/media/oppo-reno7.dedadaebb21cf2bb2137.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.34c486c4.css",
+    "static/js/main.76e15f40.js"
+  ]
+}
